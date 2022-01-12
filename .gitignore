@@ -1,0 +1,5 @@
+api/.venv/Lib/site-packages/_distutils_hack/override.py
+api/.venv
+node_modules
+build
+__pycache__
